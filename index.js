@@ -4,7 +4,7 @@ module.exports = () => {
   const args = minimist(process.argv.slice(2), {
     alias: {
       s: 'synonyms',
-      a: 'anonyms',
+      a: 'antonyms',
       d: 'definition',
       h: 'help',
       v: 'version'
