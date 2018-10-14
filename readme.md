@@ -3,6 +3,8 @@
 
 ## Usage
 
+[![https://asciinema.org/a/nLvdaH3DTSVgfgPMYRsW5av1b](https://asciinema.org/a/nLvdaH3DTSVgfgPMYRsW5av1b.png)](https://asciinema.org/a/nLvdaH3DTSVgfgPMYRsW5av1b)
+
 To query for a words definition simply pass it as an argument to the script
 
 ```bash
