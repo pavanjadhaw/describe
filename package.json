@@ -1,0 +1,43 @@
+{
+  "name": "describe",
+  "version": "0.0.1",
+  "description": "query words from Oxford Dictionaries API",
+  "main": "index.js",
+  "bin": {
+    "describe": "./bin/describe"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanjadhaw/describe.git"
+  },
+  "keywords": [
+    "describe",
+    "nodejs",
+    "cli",
+    "oxford",
+    "dictionaries",
+    "dictionary",
+    "synonyms",
+    "antonyms"
+  ],
+  "author": "Pavan Jadhaw <@pavanjadhaw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavanjadhaw/describe/issues"
+  },
+  "homepage": "https://github.com/pavanjadhaw/describe#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^3.0.0"
+  },
+  "devDependencies": {
+    "xo": "^0.23.0"
+  },
+  "xo": {
+    "space": true
+  }
+}
