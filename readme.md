@@ -62,6 +62,8 @@ $ npm install
 $ npm link
 ```
 
+In order to make the script work you first have to register a (free) developer account at [Oxford Dictionaries](https://developer.oxforddictionaries.com/) to obtain an `app id` and `app key` and put them in config.js
+
 
 ## Requirements
 
