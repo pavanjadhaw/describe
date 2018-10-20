@@ -1,5 +1,5 @@
 ![heroimage.png](./media/describe.png)
->Query words from oxford dictionaries API
+>Query words from oxford dictionaries API <a href="https://saythanks.io/to/pavanjadhaw" target="_blank"><img src="https://img.shields.io/badge/say-thanks-blue.svg?longCache=true&style=flat-square" alt="saythanks" align="right"/></a>
 
 ## Usage
 
