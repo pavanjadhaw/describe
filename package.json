@@ -7,7 +7,8 @@
     "describe": "./bin/describe"
   },
   "scripts": {
-    "test": "xo"
+    "test": "xo",
+    "build": "pkg index.js"
   },
   "repository": {
     "type": "git",
@@ -35,6 +36,7 @@
     "ora": "^3.0.0"
   },
   "devDependencies": {
+    "pkg": "^4.3.4",
     "xo": "^0.23.0"
   },
   "xo": {
